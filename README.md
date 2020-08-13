@@ -6,4 +6,4 @@ todo
 
 ## current ratio
 as of August 14th 2020
-5:3.5 (10:6)
+5:3.5 (10:7)
