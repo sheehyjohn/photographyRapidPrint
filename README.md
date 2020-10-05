@@ -1,5 +1,5 @@
 # photographyRapidPrint
-todo
+todo and do a to
 
 ## initial ratio
 5:4
